@@ -11,6 +11,3 @@ The HTML created apart from the bootstrap boilerplate is enclosed in the followi
 <!--Begin Assignment -->
 <!-- End Assignment -->
 ```
-
-Author: Abinand   
-Images are owned by [Zola](https://www.zola.com/)
